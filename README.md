@@ -1,3 +1,3 @@
 # MysMapDate
 
-此为[mysMap插件](https://gitee.com/zzwh12/mys-map)地图数据存放库
+此为[mysMap插件](https://github.com/zzwh12/mysMap)地图数据存放库
